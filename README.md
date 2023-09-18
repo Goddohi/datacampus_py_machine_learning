@@ -1,7 +1,12 @@
 # datacampus_py_machine_learning
 This project is a  website developed as a result of DataCampus Healthcare AI Project, which guides users on nutritional deficiencies through body data. We possess the dataset, and we regret to inform you that we cannot distribute it due to copyright restrictions.
 
+
 이 파일은 연습 및 학습 목적으로 사용되었으며, 데이터셋은 저작권 제한으로 인해 업로드할 수 없습니다.
+또한 연습과 학습을 통해 완성된 머신러닝완성본은 제공할 수 없기에 테스트 파일만 올렸습니다
+
+아래 데이터셋의 문제점은 연속성변수와 명목형변수의 차이를 모르고 만든 문제점이 있습니다 
+해당 문제점을 인지하고 제파일을 교육에 도움이 되길바랍니다 
 
 다음은 데이터 관련 처리 내용입니다:
 
@@ -34,7 +39,10 @@ L_LN: 주간 점심식사 빈도 (0: 0회 / 1: 1-2회 / 2: 3-4회 / 3: 5-7회)
 L_DN: 주간 저녁식사 빈도 (0: 0회 / 1: 1-2회 / 2: 3-4회 / 3: 5-7회)
 WATER: 물 섭취량 (컵, 200ml) (1: 0-2컵 / 2: 3-4컵 / 3: 5-6컵 / 4: 7-8컵 / 5: 9컵 이상)
 
-This file was used for practice and learning purposes as part of our study. Unfortunately, we cannot upload the dataset due to copyright restrictions.
+
+This file is used for practice and learning purposes, and the dataset cannot be uploaded due to copyright restrictions. Furthermore, the completed machine learning model resulting from practice and learning cannot be provided; therefore, only the test file has been uploaded.
+
+The dataset has a notable issue regarding the lack of differentiation between continuous variables and categorical variables. Recognizing this issue is crucial, and I hope that addressing it will contribute to your educational efforts.
 
 Here are the details of the data processing:
 
