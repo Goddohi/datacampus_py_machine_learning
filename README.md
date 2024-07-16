@@ -2,8 +2,8 @@
 This project is a  website developed as a result of DataCampus Healthcare AI Project, which guides users on nutritional deficiencies through body data. We possess the dataset, and we regret to inform you that we cannot distribute it due to copyright restrictions.
 
 
-이 파일은 연습 및 학습 목적으로 사용되었으며, 데이터셋은 저작권 제한으로 인해 업로드할 수 없습니다.
-또한 연습과 학습을 통해 완성된 머신러닝완성본은 제공할 수 없기에 테스트 파일만 올렸습니다
+이 파일은 연습 및 학습 목적으로 사용되었으며, 데이터셋은 의료데이터관련 제한으로 인해 업로드할 수 없습니다.
+또한 연습과 학습을 통해 완성된 머신러닝완성본은 제공할 수 없기에 머신러닝 테스트 파일만 올렸습니다
 
 아래 데이터셋의 문제점은 연속성변수와 명목형변수의 차이를 모르고 만든 문제점이 있습니다 
 해당 문제점을 인지하고 제파일을 교육에 도움이 되길바랍니다 
